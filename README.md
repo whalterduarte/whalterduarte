@@ -21,7 +21,7 @@
 
 <div align="center">
   <h2>Redes Sociais 🌐</h2>
-  <a href="https://www.instagram.com/whalterdart/">Instagram</a> | <a href="https://www.whalter.com.br/">Portfólio</a> | <a href="https://www.linkedin.com/in/whalter-duarte-a00b14174/">Likedin</a>
+  <a href="https://www.instagram.com/whalterdart/">Instagram</a> | <a href="https://www.whalter.com.br/">Portfólio</a> | <a href="https://www.linkedin.com/in/whalter-duarte-a00b14174/">Linkedin</a>
 </div>
 
 <div align="center">
