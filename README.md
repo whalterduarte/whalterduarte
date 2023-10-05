@@ -5,6 +5,7 @@
 
 <div align="center">
   <img src="https://whalter.com.br/gitlen.png" alt="Sua imagem de perfil" width="400" height="200">
+  
 </div>
 
 
@@ -18,6 +19,20 @@
     <li>🌱 Estou constantemente atualizando minhas habilidades e explorando novas tecnologias para me manter relevante no mundo em constante evolução da programação.</li>
   </ul>
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=whalterduarte&show_icons=true&theme=radical" alt="Whalter Duarte's GitHub stats" width="59%" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whalterduarte&layout=donut&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Top Langs" width="40%" />
+  </a>
+</div>
+
+
+
+
+
+
+
 
 <div align="center">
  <h3>Meu <a href="https://www.whalter.com.br/">Portiólio</a></h3>
