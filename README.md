@@ -1,16 +1,16 @@
 <div align="center">
   <h1>Hello, World! 👋</h1>
-  <p>I'm a passionate Full Stack Developer with expertise in React, React Native, and Node.js, using TypeScript to build robust and scalable web and mobile applications. Here's some information about me:</p>
+  <p>I'm a passionate Full Stack Developer with expertise in  Spring, Angular, Next, React, React Native, and Node.js, using TypeScript, Java and Kotlin to build robust and scalable web and mobile applications. Here's some information about me:</p>
 </div>
 
 <div align="center">
-  <img src="https://whalter.com.br/gitlen.png" alt="Your profile image" width="400" height="200">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/0*4HNmbdP1wyHCp-HV.png" alt="Your profile image" width="400" height="200">
 </div>
 
 <div align="center">
   <h2>My Journey 🚀</h2>
   <ul>
-    <li>💻 I have projects in web and mobile development, focusing on React, React Native, and Node.js for back-end development.</li>
+    <li>💻 I have projects in web and mobile development, focusing on React, React Native, Node.js, Spring for back-end development.</li>
     <li>📚 I'm a dedicated learner with a strong interest in technology and a passion for continuous learning. I had my first encounter with a desktop computer at the age of 14, sparking my interest and motivating me to explore the world of technology more deeply. Since then, I've constantly sought to improve my skills and keep up with the latest trends in the tech field.</li>
     <li>🧠 My approach is logical and solution-oriented. I enjoy solving complex problems and finding efficient ways to get things done.</li>
     <li>🌱 I'm constantly updating my skills and exploring new technologies to stay relevant in the ever-evolving world of programming.</li>
