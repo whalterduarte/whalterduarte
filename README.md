@@ -25,7 +25,7 @@
 </div>
 
 <div align="center">
-  <h3>My <a href="https://www.whalter.com.br/">Portfolio</a></h3>
+  <h3>My <a href="https://whalter.vercel.app">Portfolio</a></h3>
   <h2>Social Media 🌐</h2>
  
  <div> 
