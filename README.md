@@ -1,5 +1,6 @@
 <div align="center">
   <h1>Hello, World! 👋</h1>
+  <h2> Whalter Duarte </h2>
   <p>I'm a passionate Full Stack Developer with expertise in  Spring, Angular, Next, React, React Native, and Node.js, using TypeScript, Java and Kotlin to build robust and scalable web and mobile applications. Here's some information about me:</p>
 </div>
 
