@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Dinossauro da Internet, mais velho que um 💾. Amante de tecnologia!
 - 🎓 &nbsp; Ciências da Computação (2023~2026) - UniAmerica 
 - 🎓 &nbsp; Cursos : B7Web - Alura - Entre "mil milhoes" de outros cursos.
-- 💭 &nbsp; Na vastidão do conhecimento, sou apenas uma pequena centelha ciente de sua própria ignorância. Mas é essa consciência humilde que me impulsiona a avançar, explorando os mistérios do universo com olhos curiosos e mente aberta.
+- 💭 &nbsp; In the vastness of knowledge, I am but a small spark aware of its own ignorance. Yet, it is this humble awareness that propels me forward, exploring the mysteries of the universe with curious eyes and an open mind.
 - 📄 &nbsp; Acesse meu site <a href="https://www.whalter.com.br">aqui</a>
 - 💼 &nbsp; Contribuindo como Desenvolvedor Voluntário na <a href="https://bytebushido.tech/">💻  ByteBushido</a>
 - 💼 &nbsp; Fundador da <a href="https://bytebushido.tech/">ByteBushido</a>
