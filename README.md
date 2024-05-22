@@ -15,6 +15,7 @@
 **Aplicações e Dados**
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Typscript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![NestJs](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
   ![NextJs](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=nextjs)
