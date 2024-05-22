@@ -1,22 +1,69 @@
-<div align="center">
-  <h1>Hello, World! 👋</h1>
-  <h2> Whalter Duarte </h2>
-  <p>I'm a passionate Full Stack Developer with expertise in  Spring, Angular, Next, React, React Native, and Node.js, using TypeScript, Java and Kotlin to build robust and scalable web and mobile applications. Here's some information about me:</p>
+![](https://komarev.com/ghpvc/?username=whalterduarte&color=006bed)
+
+<h3> :metal: &nbsp;Sobre mim </h3>
+
+- 🤔 &nbsp; Dinossauro da Internet, mais velho que um 💾. Amante de tecnologia!
+- 🎓 &nbsp; Ciências da Computação (2023~2026) - UniAmerica 
+- 🎓 &nbsp; Cursos : B7Web - Alura - Entre "mil milhoes" de outros cursos.
+- 💭 &nbsp; Na vastidão do conhecimento, sou apenas uma pequena centelha ciente de sua própria ignorância. Mas é essa consciência humilde que me impulsiona a avançar, explorando os mistérios do universo com olhos curiosos e mente aberta.
+- 📄 &nbsp; Acesse meu site <a href="https://www.whalter.com.br">aqui</a>
+- 💼 &nbsp; Contribuindo como Desenvolvedor Voluntário na <a href="https://bytebushido.tech/">💻  ByteBushido</a>
+- 💼 &nbsp; Fundador da <a href="https://bytebushido.tech/">ByteBushido</a>
+
+<h3> :rocket: &nbsp;Minhas Skills </h3>
+
+**Aplicações e Dados**
+
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+  ![NestJs](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
+  ![NextJs](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=nextjs)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=SCSS)
+  ![Styled Components](https://img.shields.io/badge/-StyledComponents-333333?style=flat&logo=styledcomponents)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![AngularJs](https://img.shields.io/badge/-AngularJS-333333?style=flat&logo=angularjs)
+  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![PostGreSQL](https://img.shields.io/badge/-PostGreSQL-333333?style=flat&logo=postgresql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![SQLServer](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=sqlserver)
+  
+
+**Utilidades**
+
+  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+  ![Slack](https://img.shields.io/badge/-Slack-333333?style=flat&logo=slack)
+  ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
+  ![Adobe Xd](https://img.shields.io/badge/-AdobeXd-333333?style=flat&logo=adobexd)
+  ![Adobe Photoshop](https://img.shields.io/badge/-AdobePhotoshop-333333?style=flat&logo=adobephotoshop)
+  ![Adobe Illustrator](https://img.shields.io/badge/-AdobeIllustrator-333333?style=flat&logo=adobeillustrator)
+  ![Adobe InDesign](https://img.shields.io/badge/-AdobeInDesign-333333?style=flat&logo=adobeInDesign)
+
+**DevOps**
+
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkis)
+
+**Ferramentas de Desenvolvimento**
+
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+  ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
+
+  <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+ <div> 
+  <a href="https://www.instagram.com/whalterdart/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:whalterdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/whalter-duarte-a00b14174/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/0*4HNmbdP1wyHCp-HV.png" alt="Your profile image" width="400" height="200">
-</div>
-
-<div align="center">
-  <h2>My Journey 🚀</h2>
-  <ul>
-    <li>💻 I have projects in web and mobile development, focusing on React, React Native, Node.js, Spring for back-end development.</li>
-    <li>📚 I'm a dedicated learner with a strong interest in technology and a passion for continuous learning. I had my first encounter with a desktop computer at the age of 14, sparking my interest and motivating me to explore the world of technology more deeply. Since then, I've constantly sought to improve my skills and keep up with the latest trends in the tech field.</li>
-    <li>🧠 My approach is logical and solution-oriented. I enjoy solving complex problems and finding efficient ways to get things done.</li>
-    <li>🌱 I'm constantly updating my skills and exploring new technologies to stay relevant in the ever-evolving world of programming.</li>
-  </ul>
-</div>
+</br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=whalterduarte&show_icons=true&theme=radical" alt="Whalter Duarte's GitHub stats" width="59%" />
@@ -26,16 +73,3 @@
 </div>
 
 <div align="center">
-  <h3>My <a href="https://whalter.vercel.app">Portfolio</a></h3>
-  <h2>Social Media 🌐</h2>
- 
- <div> 
-  <a href="https://www.instagram.com/whalterdart/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:whalterdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/whalter-duarte-a00b14174/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-</div>
-
-<div align="center">
-  <p>WELCOME TO THE FUTURE! 🚀</p>
-</div>
