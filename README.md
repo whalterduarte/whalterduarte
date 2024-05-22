@@ -2,7 +2,7 @@
 
 <h3> :metal: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Dinossauro da Internet, mais velho que um 💾. Amante de tecnologia!
+- 🤔 &nbsp; Pterodáctilo da Internet, mais velho que um 💾. Amante de tecnologia!
 - 🎓 &nbsp; Ciências da Computação (2023~2026) - UniAmerica 
 - 🎓 &nbsp; Cursos : B7Web - Alura - Entre "mil milhoes" de outros cursos.
 - 💭 &nbsp; In the vastness of knowledge, I am but a small spark aware of its own ignorance. Yet, it is this humble awareness that propels me forward, exploring the mysteries of the universe with curious eyes and an open mind.
