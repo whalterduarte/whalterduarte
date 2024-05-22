@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Pterodáctilo da Internet, mais velho que um 💾. Amante de tecnologia!
 - 🎓 &nbsp; Ciências da Computação (2023~2026) - UniAmerica 
-- 🎓 &nbsp; Cursos : B7Web - Alura - Entre "mil milhoes" de outros cursos.
+- 🎓 &nbsp; Cursos : B7Web - Alura - Entre "mil milhoes" de outros cursos e não conformado criei a plataforma da <a href="https://bytebushido.tech/">ByteBushido</a>
 - 💭 &nbsp; In the vastness of knowledge, I am but a small spark aware of its own ignorance. Yet, it is this humble awareness that propels me forward, exploring the mysteries of the universe with curious eyes and an open mind.
 - 📄 &nbsp; Acesse meu site <a href="https://www.whalter.com.br">aqui</a>
 - 💼 &nbsp; Contribuindo como Desenvolvedor Voluntário na <a href="https://bytebushido.tech/">💻  ByteBushido</a>
