@@ -19,6 +19,8 @@
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![NestJs](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
   ![NextJs](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=nextjs)
+  ![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=kafka)
+  ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=RabbitMQ)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=SCSS)
